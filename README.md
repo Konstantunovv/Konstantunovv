@@ -20,14 +20,6 @@
 ## My Skill Set  
 <table><tr><td valign="top" width="33%">
 
-### Frontend  
-<div align="center">   
-<img style="margin: 10px" src="https://simpleicons.org/icons/css3.svg" alt="CSS3" height="50" />
-<img style="margin: 10px" src="https://simpleicons.org/icons/adobephotoshop.svg" alt="AdobePhotoshop" height="50" />  
-<img style="margin: 10px" src="https://simpleicons.org/icons/html5.svg" alt="HTML5" height="50" />  
-<img style="margin: 10px" src="https://simpleicons.org/icons/adobeillustrator.svg" alt="Illustrator" height="50" />   
-</div></td><td valign="top" width="33%">
-
 ### Backend  
 <div align="center">  
 <img style="margin: 10px" src="https://simpleicons.org/icons/postgresql.svg" alt="Postgres" height="50" />   
@@ -64,12 +56,12 @@
 
 ## Github Stats
 <div align="center">
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=vkonstantunov&show_icons=true&count_private=true" align="center" /></div>  
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=konstantunovv&show_icons=true&count_private=true" align="center" /></div>  
 
 <br/>  
 
 <div align="center">
-<img src="https://komarev.com/ghpvc/?username=vkonstantunov&&style=flat-square" align="center" />
+<img src="https://komarev.com/ghpvc/?username=konstantunovv&&style=flat-square" align="center" />
 </div>  
   
 
