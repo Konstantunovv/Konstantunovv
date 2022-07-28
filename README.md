@@ -22,8 +22,6 @@
 
 ### Backend  
 <div align="center">  
-<img style="margin: 10px" src="https://simpleicons.org/icons/postgresql.svg" alt="Postgres" height="50" />   
-<img style="margin: 10px" src="https://simpleicons.org/icons/linux.svg" alt="Linux" height="50" />   
 <img style="margin: 10px" src="https://simpleicons.org/icons/git.svg" alt="Git" height="50" />
 <img style="margin: 10px" src="https://simpleicons.org/icons/django.svg" alt="Django" height="50" /> 
 <img style="margin: 10px" src="https://simpleicons.org/icons/python.svg" alt="Python" height="50" /> 
@@ -32,7 +30,6 @@
 
 ### DevOps  
 <div align="center">  
-<img style="margin: 10px" src="https://simpleicons.org/icons/linux.svg" alt="Linux" height="50" />
 <img style="margin: 10px" src="https://simpleicons.org/icons/windows.svg" alt="Windows" height="50" />
 <img style="margin: 10px" src="https://simpleicons.org/icons/macos.svg" alt="Mac" height="50" />
 <img style="margin: 10px" src="https://simpleicons.org/icons/git.svg" alt="Git" height="50" />  
