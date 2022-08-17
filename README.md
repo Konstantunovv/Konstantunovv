@@ -3,7 +3,7 @@
 </div>  
   
 
-### <div align="center">Hi my name is Vladislav, I am a junior python developer👨‍💻 Started his way in development in 2021 🚀</div>  
+# <div align="center">Hi my name is Vladislav, I am a junior python developer👨‍💻 Started his way in development in 2021 🚀</div>  
   
 
 - 🔭 I’m currently working on [Github Profilinator](https://github.com/konstantunovv)  
@@ -16,6 +16,7 @@
 
 # <div align="center">Texnology Stack🚀</div>  
 
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=The+five+boxing+wizards+jump+quickly" alt="Typing SVG" /></a>
   
 
 <br/>  
