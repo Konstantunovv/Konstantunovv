@@ -14,7 +14,7 @@
 - ⚡ Fun fact: I like to learn new technologies around the clock
 
 
-# <div align="center">Texnology Stack🚀</div>  
+# <div align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&background=11E7E100&width=435&lines=Texnology+Stack%F0%9F%9A%80" alt="Typing SVG" /></a></div>  
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=The+five+boxing+wizards+jump+quickly" alt="Typing SVG" /></a>
   
