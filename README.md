@@ -12,6 +12,9 @@
 - 🌱 I’m currently learning Python
   
 - ⚡ Fun fact: I like to learn new technologies around the clock
+
+
+### <div align="center">Texnology Stack🚀</div>  
   
 
 <br/>  
